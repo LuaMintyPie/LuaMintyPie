@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: luamintypie on Discord.
 - 😄 Pronouns: he/she/it... whatever you feel like idc.
-- 📫 Preffered languages: Python and JavaScript but ive used around 8 and I enjoy learning new languages.
+- 📖 Preffered languages: Python and JavaScript but ive used around 8 and I enjoy learning new languages.
 - ⚡ Fun Fact:
     Super into calculator programming on the TI series.
     Both Z80 Assembly, C toolchain, And TI-BASIC development interests me.
